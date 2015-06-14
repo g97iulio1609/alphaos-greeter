@@ -1,0 +1,7 @@
+[theme]
+name=alphaos
+version=1.0
+description=Alpha OS Theme
+engine=lightdm-webkit2-greeter
+url=index.html
+session=gnome
